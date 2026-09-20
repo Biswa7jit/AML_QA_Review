@@ -5,13 +5,10 @@ analyst case files, each independently scored against an 8-point QA
 checklist using a critical-error methodology. Built entirely in Excel
 formulas. No Python, no SQL, no VBA, no add-ins.
 
-This is the fifth project in an AML/KYC portfolio series, and the one
-that connects most directly to hands-on QA experience: independent
+This project connects most directly to hands-on QA experience: independent
 testing of case decisions — not detection, not screening, but
 *auditing the auditors* — is one of the five pillars of an AML
-compliance program, alongside written policies & procedures, a
-designated compliance officer, training, and (since 2021) customer
-due diligence itself.
+compliance program.
 
 ## Why this project
 
