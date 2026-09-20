@@ -175,10 +175,7 @@ This is not meant to represent a real program's typical pass rate.
 
 ## About
 
-Built by [Your Name], a Quality Analyst with 3+ years of QA
+Built by Biswajit Das, a Quality Analyst with 3+ years of QA
 experience (auditing task execution against policy and compliance
 standards) and CAMS certification, as a portfolio piece connecting
-that QA background directly to AML case review. See also: [link to
-SQL AML project], [link to Excel AML transaction monitoring project],
-[link to Sanctions & PEP screening project], [link to Customer Risk
-Rating Model project], and [link to Medium AML article series].
+that QA background directly to AML case review.
