@@ -1,0 +1,9 @@
+criterion_id,criterion,critical,description
+Q1,KYC information reviewed correctly?,N,"Did the analyst verify KYC/CDD data on file was current, complete, and consistent with the alert?"
+Q2,Customer risk rating appropriate?,N,"Was the customer's risk rating accurate given current activity, or flagged for re-rating if not?"
+Q3,Transaction red flags identified?,Y,Did the analyst correctly identify all relevant suspicious activity indicators in the alert?
+Q4,Investigation sufficiently documented?,N,"Is the analytical rationale, evidence reviewed, and conclusion clearly documented in the case file?"
+Q5,RFI appropriate?,N,"Where warranted, did the analyst request additional customer information (RFI) — and was that decision justified either way?"
+Q6,Adverse media properly assessed?,N,Was negative news screening conducted and any hits properly evaluated and documented?
+Q7,Escalation required?,Y,Was the decision to escalate (or not escalate) the case correctly made and executed?
+Q8,Final disposition supported by evidence?,Y,Does the documented evidence actually support the analyst's closure/escalation decision?
