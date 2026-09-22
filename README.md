@@ -106,13 +106,13 @@ Running the QA program against the 10 synthetic cases produces:
 | FAIL | 1 | 10% |
 | FAIL - Critical Error | 3 | 30% |
 
-![QA Review scorecard](screenshots/qa_review.png)
+![QA Review scorecard](qa_review.png)
 
 **The dashboard's per-criterion breakdown is the more useful finding
 for a real QA program** — it isn't just "3 analysts failed," it's
 *why*:
 
-![QA Dashboard](screenshots/qa_dashboard.png)
+![QA Dashboard](qa_dashboard.png)
 
 "Investigation sufficiently documented?" has the lowest pass rate in
 the sample (30%) — lower even than the critical criteria. That's a
